@@ -18,12 +18,12 @@ namespace Online.Controllers
             _logger = logger;
         }
 
-        
-        public IActionResult About()
+
+        public IActionResult Afgfgfgfgfgbout()
         {
             return View();
         }
-        
+
         public IActionResult Index()
         {
             return View();
