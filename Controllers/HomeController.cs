@@ -19,7 +19,7 @@ namespace Online.Controllers
         }
 
         
-        public IActionResult About()
+        public IActionResult AboutMe()
         {
             return View();
         }
