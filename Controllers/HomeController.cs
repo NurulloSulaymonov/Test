@@ -23,6 +23,10 @@ namespace Online.Controllers
         {
             return View();
         }
+        public IActionResult Sum()
+        {
+            return View();
+        }
         
         public IActionResult Index()
         {
